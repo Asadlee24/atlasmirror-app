@@ -6,18 +6,20 @@
   "category": "geospatial",
   "description": "Logos Basecamp application for decentralized OpenStreetMap snapshot distribution",
   "view": "src/qml/Main.qml",
-  "main": "atlasmirror_app_backend",
   "dependencies": ["atlasmirror_sdk"],
-
+  "provides": [],
+  "uses": [],
   "nix": {
     "packages": {
-      "build": ["pkg-config", "cmake"],
-      "runtime": ["qt6.qtdeclarative", "qt6.qtremoteobjects"]
+      "build": [],
+      "runtime": ["qt6.qtdeclarative"]
     },
     "external_libraries": [],
     "cmake": {
-      "find_packages": ["Qt6Core", "Qt6Quick", "Qt6Qml", "Qt6RemoteObjects"],
-      "extra_sources": []
+      "find_packages": [],
+      "extra_sources": [],
+      "extra_include_dirs": [],
+      "extra_link_libraries": []
     }
   }
 }
