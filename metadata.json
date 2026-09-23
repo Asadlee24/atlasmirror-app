@@ -5,6 +5,7 @@
   "type": "ui_qml",
   "category": "geospatial",
   "description": "Logos Basecamp application for decentralized OpenStreetMap snapshot distribution",
+  "icon": "src/icons/icon.png",
   "view": "src/qml/Main.qml",
   "dependencies": ["atlasmirror_sdk"],
   "provides": [],
