@@ -144,7 +144,7 @@ void AppBackend::loadPredefinedCatalog()
     VerifiedEntry verified[] = {
         {"china/henan", "zDvZRwzm4i6cSYFNEAUzyEGTJBroH2EJjc3FJNmbhoKRwagSZ1ny", "0055ebfc7f14585c56d53a88062d5814", "2026-09-20"},
         {"africa/ethiopia", "zDvZRwzm7o1JcgDFrsC8zYrEYnhPkY52qThJLjojMvswjj8pVjPX", "c2e00ecddf7ae4ed89bf05bf104d3f10", "2026-09-20"},
-        {"asia/pakistan", "zDvZRwzm9WQQrvAZL4NavbFXjmbHTFNyho68zPMxKsCvfGEn2LbD", "d63c9409c20924d0813b81266eb2f5ad", "2026-09-20"},
+        {"asia/pakistan", "zDvZRwzmb2rhmbuKmxifz7mCY9PgRtFJUwyescB3xfCKzSvE61vz", "5dd3c567f557b843aef1576b8973f81f", "2026-09-24"},
         {"europe/bulgaria", "zDvZRwzm72Y7GBdMzdT7ibQWieQSmUhvk54VHfhcsUDcqnPhma51", "25801cfabc5bfe8e1ae56ded0fa5ed13", "2026-09-20"},
         {"africa/egypt", "zDvZRwzmDbJCqSLbyt1Fw4mSvrGFkJGBLaBAogpw8VF66wA469mm", "04a4d557c902a5f29ba0e7a1394e0232", "2026-09-20"},
         {"asia/iran", "zDvZRwzmBv3fXmNnBhy32eW6P817173jE48pWfNnE35g68b3n72g", "5d33dd5a92a5b28dae3e60fc8ccae1b4", "2026-09-20"},
